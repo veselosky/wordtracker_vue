@@ -1,15 +1,20 @@
 {
   "dev": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-wordtracker-dev-73837-authRole",
-      "UnauthRoleArn": "arn:aws:iam::128119582937:role/amplify-wordtracker-dev-73837-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::128119582937:role/amplify-wordtracker-dev-73837-authRole",
+      "AuthRoleName": "amplify-wordtracker-dev-81307-authRole",
+      "UnauthRoleArn": "arn:aws:iam::128119582937:role/amplify-wordtracker-dev-81307-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::128119582937:role/amplify-wordtracker-dev-81307-authRole",
       "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-wordtracker-dev-73837-deployment",
-      "UnauthRoleName": "amplify-wordtracker-dev-73837-unauthRole",
-      "StackName": "amplify-wordtracker-dev-73837",
-      "StackId": "arn:aws:cloudformation:us-east-2:128119582937:stack/amplify-wordtracker-dev-73837/d69153e0-fb61-11eb-be7a-0a400267e8f4",
-      "AmplifyAppId": "d2e0l25lonhij2"
+      "DeploymentBucketName": "amplify-wordtracker-dev-81307-deployment",
+      "UnauthRoleName": "amplify-wordtracker-dev-81307-unauthRole",
+      "StackName": "amplify-wordtracker-dev-81307",
+      "StackId": "arn:aws:cloudformation:us-east-2:128119582937:stack/amplify-wordtracker-dev-81307/fd5fb910-fcf8-11eb-9d1d-02a05f7970ca",
+      "AmplifyAppId": "d293hpc4kl37rj"
+    },
+    "categories": {
+      "auth": {
+        "wordtracker": {}
+      }
     }
   }
 }
