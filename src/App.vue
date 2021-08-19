@@ -5,7 +5,7 @@
       <router-link to="/about">About</router-link> |
       <router-link to="/session">Start a Session</router-link> |
       <router-link to="/log">Log a Previous Session</router-link> |
-      <amplify-signout v-if="signedIn"></amplify-signout>
+      <amplify-sign-out v-if="signedIn"></amplify-sign-out>
       <router-link v-else to="/auth">Sign in</router-link>
     </div>
     <router-view />
